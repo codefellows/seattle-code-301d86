@@ -1,0 +1,21 @@
+{
+  "lists": [
+    {
+      "listName": "supplies",
+      "items": [
+        "Tape",
+        "Toilet Paper",
+        "Dish Soap"
+      ]
+    },
+    {
+      "listName": "food",
+      "items": [
+        "Apples",
+        "Cereal",
+        "Coffee",
+        "Pizza"
+      ]
+    }
+  ]
+}
