@@ -106,3 +106,7 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
    export default Something
    ```
+
+## Resources
+
+- [Hoisting, Arrow Functions, Classes and ForEach](https://replit.com/@sheyna/DisgustingAthleticVirus#index.js)
