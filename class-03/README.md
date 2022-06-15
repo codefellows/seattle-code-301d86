@@ -40,7 +40,7 @@ Yesterday, you learned how to pass information from a parent component into a ch
 1. Allowing the child component to update the state in the parent component:
 
   - Step 1. send a function into the child component that updates the state in the parent component
-  
+
   ```javaScript
   class Parent extends React.Component {
     constructor(props){
@@ -87,3 +87,8 @@ Yesterday, you learned how to pass information from a parent component into a ch
   ```
 
   - Step 3. The invoked function from the child component will update the name in the parent component and tada! Your child component has essientially changed the state of your parent component.
+
+## Resources
+
+- [Filter](https://replit.com/@sheyna/OldlaceLuckySpools#index.js)
+- [Bootstrap classes cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
