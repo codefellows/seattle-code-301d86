@@ -2,8 +2,9 @@
 
 ## Resources
 
-[Replit - Reduce](https://replit.com/@arpatterson31/301d86-Reduce#index.js)
-[Web Request Response Cycle WB](whiteboard/WRRC-WB.png)
+- [Replit - Reduce](https://replit.com/@arpatterson31/301d86-Reduce#index.js)
+- [Web Request Response Cycle WB](whiteboard/WRRC-WB.png)
+- [Form Review Code for City Explorer](inclass-demo-form-review)
 
 ## Overview
 
