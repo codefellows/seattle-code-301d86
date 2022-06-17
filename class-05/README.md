@@ -1,5 +1,10 @@
 # Class 5: Putting it all together
 
+## Resources
+
+[Replit - Reduce](https://replit.com/@arpatterson31/301d86-Reduce#index.js)
+[Web Request Response Cycle WB](whiteboard/WRRC-WB.png)
+
 ## Overview
 
 Today we will use the skills we learned over the week to build a new application: city explorer! Your lab will be to take React starter code and turn it into a beautiful portfolio.
