@@ -46,7 +46,3 @@ class App extends React.Component {
 
 export default App;
 ```
-
-## Resources
-
-- [Pass by value and pass by reference](https://replit.com/@sheyna/FrugalWanActivemovie#index.js)

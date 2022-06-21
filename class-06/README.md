@@ -93,3 +93,7 @@ Today we will explore third party APIs and how to request data from them.
 
    - you can wrap a try/catch around any code you want
    - it says, "try to run this code - if it doesn't work, then run the code in the catch block"
+
+## Resources
+
+- [Pass by value and pass by reference](https://replit.com/@sheyna/FrugalWanActivemovie#index.js)
