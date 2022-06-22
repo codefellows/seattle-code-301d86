@@ -53,3 +53,8 @@ Today we will use our express server to request information from third party API
   ```
 
 - NOTE: `axios` returns a giant object. The data we care about will be found in the `data` property of that object.
+
+## Resources
+
+- [Intro to Regex](https://replit.com/@sheyna/AptEssentialParallelport#index.js)
+- [Regex 101](https://regex101.com/)
