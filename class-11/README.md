@@ -104,3 +104,7 @@ fluffy.save();
 
 1. What resources can I use to help me with my lab and to learn more?
 [mongoose](https://mongoosejs.com/docs/)
+
+## Resources
+
+- [Chaining](https://replit.com/@sheyna/BruisedLightcyanProgrammingtool#index.js)
